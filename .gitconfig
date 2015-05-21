@@ -1,0 +1,19 @@
+[user]
+	email = kevindy@abasin.ninja
+	name = kevindy
+[color]
+	ui = auto
+[url "https://"]
+[url "https://"]
+	insteadOf = git://
+[core]
+	autocrlf = input
+[push]
+	default = simple
+[pull]
+	rebase = true
+[rerere]
+	enabled = true
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
