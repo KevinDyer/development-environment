@@ -8,6 +8,7 @@
 	insteadOf = git://
 [core]
 	autocrlf = input
+	editor = vim
 [push]
 	default = simple
 [pull]
